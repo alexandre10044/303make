@@ -9,6 +9,6 @@ USAGE
 
 DESCRIPTION
 
-makefile    name of the makefilefile        
+makefile    name of the makefile
 
-name of a recently modified file
+file        name of a recently modified file
